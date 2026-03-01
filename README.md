@@ -77,8 +77,8 @@ This project was developed as a personal branding website to support job applica
 **Sai Mahesh**
 - 📍 Chennai, India
 - 📧 saimaheshcj2@gmail.com
-- 💼 LinkedIn: (Add link)
-- 🐙 GitHub: (Add link)
+- 💼 LinkedIn: (https://www.linkedin.com/in/saimahesh-nellore-44a9b3228/)
+- 🐙 GitHub: (https://github.com/Saimaheshcj/portfolio-site/tree/main/p6)
 
 ---
 
